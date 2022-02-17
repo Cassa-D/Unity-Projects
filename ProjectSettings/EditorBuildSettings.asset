@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/BulletHell/Scenes/BulletHell.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Roguelike/Scenes/Roguelike.unity
+    guid: 3c0550e8bb9fac94a8c06a696c92cc99
+  - enabled: 1
+    path: Assets/Menu/Scenes/Menu.unity
+    guid: 30e16fe288d8b9441834f36b4ef6c629
   m_configObjects: {}
